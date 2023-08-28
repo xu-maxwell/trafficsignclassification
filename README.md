@@ -1,7 +1,5 @@
 # Traffic Sign Recognition using Convolutional Neural Networks (CNN)
 
-![Traffic Sign Recognition](traffic_sign_image.jpg)
-
 ## Overview
 
 This repository contains the implementation of a Convolutional Neural Network (CNN) for the recognition of traffic signs. The project aims to accurately classify traffic signs from images using deep learning techniques. The trained CNN model can be utilized to enhance road safety, improve autonomous vehicle capabilities, and contribute to traffic management systems.
